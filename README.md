@@ -1,0 +1,2 @@
+# miniQuery
+Lightweight jQuery alternative
