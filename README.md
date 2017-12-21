@@ -1,4 +1,4 @@
-#miniQuery 0.9
+# miniQuery 0.9
 
 miniQuery is a lightweight library with jQuery-like semantics.
 
@@ -31,7 +31,7 @@ The usage of miniQuery functions is the same as their jQuery counterpart with so
 $('selector').function('action');
 ```
 
-### Functions
+### Functions
 
 .hide()
 
